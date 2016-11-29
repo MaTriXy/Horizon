@@ -4,7 +4,7 @@
 
 #### [Read more about Horizon] (https://yalantis.com/blog/horizon-open-source-library-for-sound-visualization/)
 
-<img src="https://photos-4.dropbox.com/t/2/AADx5IHcYE3W7mcYXOa5Ld1cEue8Y-WxNCz7OuGaowgrbA/12/303862396/png/32x32/3/1458651600/0/2/blog_article_header.png/EOy-xqkCGO2gDiACKAI/5FtBhn3W5mYpCiYUXLhXaMs5t7jKkohow0tMYoRslfg?size_mode=3&size=1024x768" alt="example" style="width:720;height:400">
+<img src="blog_article_header.png" alt="example" style="width:720;height:400">
 
 # Usage
 
@@ -14,8 +14,8 @@
 
 1. Include the library as local library project.
 
-    ``` compile 'com.yalantis:eqwaves:1.0.0' ```
-    
+    ``` compile 'com.yalantis:eqwaves:1.0.1' ```
+
 2. Initialize Horizon object with params regarding to your sound
 
     ````java
@@ -31,11 +31,15 @@
    mHorizon.updateView(buffer);
     ```
 # Compatibility
-  
+
   * Library - Android ICS 4.0+
   * Sample - Android ICS 4.0+
-  
+
 # Changelog
+
+### Version: 1.0.1
+
+  * Version update
 
 ### Version: 1.0
 
@@ -43,7 +47,7 @@
 
 ### Let us know!
 
-We’d be really happy if you sent us links to your projects where you use our component. Just send an email to github@yalantis.com And do let us know if you have any questions or suggestion regarding the library. 
+We’d be really happy if you sent us links to your projects where you use our component. Just send an email to github@yalantis.com And do let us know if you have any questions or suggestion regarding the library.
 
 ## License
 
@@ -60,12 +64,3 @@ We’d be really happy if you sent us links to your projects where you use our c
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-
-
-
-
-
-
-
-
