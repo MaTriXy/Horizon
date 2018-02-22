@@ -2,6 +2,8 @@
 
 #### This project aims to provide pretty cool equaliser for any Android audio project. Made in [Yalantis] (https://yalantis.com/?utm_source=github)
 
+Check this [project on dribbble] (https://dribbble.com/shots/2452050-Record-Audio-Sample)
+
 #### [Read more about Horizon] (https://yalantis.com/blog/horizon-open-source-library-for-sound-visualization/)
 
 <img src="blog_article_header.png" alt="example" style="width:720;height:400">
@@ -51,7 +53,7 @@ We’d be really happy if you sent us links to your projects where you use our c
 
 ## License
 
-    Copyright 2016, Yalantis
+    Copyright 2017, Yalantis
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
